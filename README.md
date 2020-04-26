@@ -1,6 +1,6 @@
 # Neural Network from Scratch
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/alejandrods/Neural-Network-from-Scratch/blob/master/Neural_Network_Scratch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alejandrods/Neural-Network-from-Scratch/blob/master/Neural_Network_Scratch.ipynb)
 
 It is globally known that several people consider that Neural Networks are “a black box” and we do not know what it is inside and how they work. However, I do not agree with this statement and I consider that to comprehend how they learn some tasks is an important part of a good data scientist.
 
